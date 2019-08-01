@@ -1,0 +1,14 @@
+code --install-extension abusaidm.html-snippets
+code --install-extension akamud.vscode-theme-onedark
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension joelday.docthis
+code --install-extension ms-python.python
+code --install-extension ms-vscode.vscode-typescript-tslint-plugin
+code --install-extension PKief.material-icon-theme
+code --install-extension pnp.polacode
+code --install-extension stevencl.addDocComments
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension wix.vscode-import-cost
