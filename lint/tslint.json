@@ -1,0 +1,17 @@
+{
+  "defaultSeverity": "error",
+  "extends": "tslint-config-airbnb",
+  "jsRules": {},
+  "rules": {
+    "no-debugger": true,
+    "whitespace": [
+      false
+    ],
+    "import-name": false,
+    "max-line-length": [
+      true,
+      150
+    ]
+  },
+  "rulesDirectory": []
+}
